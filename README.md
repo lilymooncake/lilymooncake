@@ -5,7 +5,7 @@ and sunshine mixed with little hurricane <img src="https://media.giphy.com/media
 ###   <img src="https://media.giphy.com/media/PoCvfFIAuieeY7WAtn/giphy.gif" width=70>  A little more about me...
 
 ```javascript
-const luna = {
+const lily = {
     pronouns: "she" | "her",
     code: [javascript, java, bash],
     askMeAbout: ["qa", "book", "dota2", "basketball", "photography", "coffee", "shoes"],
