@@ -22,7 +22,7 @@ const lily = {
         misc: ["firebase", "selenium", "appium"]    
     },
     currentFocus: Python,
-    funFact: "Code never lies, comments sometimes do."
+    funFact: "Code never lies, comments sometimes do. xD"
 };
 ```
 
