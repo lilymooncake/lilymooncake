@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/fWrorpy7Jrlvi/giphy.gif" width=100 align=left/>Hi there! I'm Luna. </h2><img align='right' src="https://media.giphy.com/media/l0MYtNH6ZJPrlcOic/giphy.gif" width="300">
+<h2><img src="https://media.giphy.com/media/fWrorpy7Jrlvi/giphy.gif" width=100 align=left/>Hi there! I'm Lily. </h2><img align='right' src="https://media.giphy.com/media/l0MYtNH6ZJPrlcOic/giphy.gif" width="300">
 <p align="center">just a cat can code<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 and sunshine mixed with little hurricane <img src="https://media.giphy.com/media/ZBPzPhOF9N6tVh82yr/giphy.gif" width=30 /></p>
 
