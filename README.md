@@ -17,7 +17,7 @@ const lily = {
         ba: {
             diagram: ["lucidChart", "figma"]
         },
-        devOps: ["aws", "k8", "docker", "nginx"],
+        devOps knowledge: ["aws", "k8", "docker", "nginx"],
         databases: ["mysql"],
         misc: ["firebase", "selenium", "appium"]    
     },
